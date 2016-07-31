@@ -1,12 +1,12 @@
 English:
 Manual
 Unzip AutoSave.zip and double-click on AutoSave.exe.
-Stops cursor movement and sends CTRL+S input on active Drawing windows.
+Auto saves Drawing softwares when timer runs out and idle.
 Does not work if shortcut key is not CTRL+S.
 
 Move the folder when moving to another location. To keep everything together.
 
-You can adjust save intervals when opening config.ini, using notepad and etc.
+You can adjust save intervals when opening config.ini, using notepad or etc.
 
 Running Register Start-up.exe will run AutoSave.exe on Windows Startup automatically.
 
