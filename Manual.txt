@@ -1,3 +1,21 @@
+English:
+Manual
+Unzip AutoSave.zip and double-click on AutoSave.exe.
+Stops cursor movement and sends CTRL+S input on active Drawing windows.
+Does not work if shortcut key is not CTRL+S.
+
+Move the folder when moving to another location. To keep everything together.
+
+You can adjust save intervals when opening config.ini, using notepad and etc.
+
+Running Register Start-up.exe will run AutoSave.exe on Windows Startup automatically.
+
+Running Delete Start-up.exe will stop AutoSave.exe from running automatically on Windows startup.
+
+Created: 07/31/2016
+
+日本語:
+
 使い方
 お絵かき自動保存.zipを解凍してお絵かき自動保存.exeをダブルクリックするだけです。
 お絵かき関連のソフトのウィンドウがアクティブかつ手が止まったタイミングでCtrl+Sを送信します。

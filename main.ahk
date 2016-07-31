@@ -22,7 +22,7 @@ GroupAdd autosaveahk, ahk_exe FireAlpaca.exe
 IniRead, autosaveInterval, config.ini, config, interval , 10
 IniRead, threshold, config.ini, config, threshold , 1
 
-MsgBox,,‚¨ŠG‚©‚«©“®•Û‘¶, %autosaveInterval%•ªŠÔŠu‚Å%threshold%•bˆÈãè‚ª~‚Ü‚Á‚½‚ç©“®“I‚É•Û‘¶‚µ‚Ü‚·,5
+MsgBox,,AutoSave, Auto-saving every %autosaveInterval% Minutes and stopping cursor for %threshold% Seconds.,5
 
 ;•Ï”‰Šú‰»
 autosaveInterval:=autosaveInterval*60
